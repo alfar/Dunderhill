@@ -1,3 +1,3 @@
 ## Welcome to Dunderhill!
 
-[[Eashill]]
+[Wiki](https://github.com/alfar/Dunderhill/wiki)
